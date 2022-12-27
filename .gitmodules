@@ -1,0 +1,3 @@
+[submodule "catalog-01"]
+	path = catalog-01
+	url = git@github.com:Jd4rc3/catalog-01.git
